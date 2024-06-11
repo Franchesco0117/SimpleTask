@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SimpleTask</string>
+
+    <string name="et_task">Add Task</string>
+    <string name="et_task_title">Task title</string>
+    <string name="et_task_description">Task description</string>
+    <string name="et_subtask_title">Subtask title</string>
+    <string name="et_subtask_description">Subtask description</string>
+
+    <string name="btn_edit_task">Edit task</string>
+    <string name="btn_delete_task">Delete task</string>
+    <string name="btn_save_task">Save</string>
+    <string name="btn_add_task">Add</string>
+
+    <string name="et_subtask">Add Subtask</string>
+    <string name="btn_add_subtask">Add</string>
+    <string name="et_edit_subtask">Edit Subtask</string>
+    <string name="btn_edit_subtask">Edit</string>
+    <string name="btn_delete_subtask">Delete subtask</string>
+    <string name="btn_save_subtask">Save</string>
+    <string name="btn_cancel_subtask">Cancel</string>
+
+</resources>
